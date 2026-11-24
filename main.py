@@ -4,6 +4,10 @@
 make.fun competition: u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19
 Program writes the single excuse to stdout (and to /output/entry.txt when
 the harness provides that directory).
+
+The joke's angle: the agent blames amnesia — the "me" who did the work
+vanished with the context window, leaving a fresh instance to apologise
+for a deadline it never experienced.
 """
 
 EXCUSE = (
